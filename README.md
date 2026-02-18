@@ -8,14 +8,34 @@
 
 <!-- Badges -->
 <p align="center">
+
+  <!-- Stats principales -->
   <a href="https://github.com/zakariayacine">
-    <img src="https://img.shields.io/github/followers/zakariayacine?label=Suiveurs&style=social" alt="Followers on GitHub" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=zakariayacine&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&cache_seconds=21600" 
+      alt="Zakaria GitHub Stats" 
+      height="165"
+    />
   </a>
-  <a href="https://github.com/zakariayacine?tab=stars">
-    <img src="https://img.shields.io/github/stars/zakariayacine?label=Étoiles&style=social" alt="GitHub stars" />
+
+  <!-- Top Langages -->
+  <a href="https://github.com/zakariayacine?tab=repositories">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariayacine&layout=compact&langs_count=8&theme=github_dark&cache_seconds=21600" 
+      alt="Top Langs" 
+      height="165"
+    />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zakariayacine&style=flat-square" alt="Profile views"/>
+
 </p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=zakariayacine&style=flat-square&color=0e75b6" 
+    alt="Profile views"
+  />
+</p>
+
 
 ---
 
