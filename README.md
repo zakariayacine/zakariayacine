@@ -85,8 +85,6 @@ Voici certains de mes projets intéressants — clique pour en savoir plus :
 | **Laravel-Form-Builder** | Package Laravel pour générer facilement des formulaires |
 | **ecommerce** | Exemple d’application e-commerce (JS) |
 
-> *Tu peux épingler jusqu’à 6 de tes meilleurs projets sur ton profil GitHub pour les mettre en avant.* :contentReference[oaicite:2]{index=2}
-
 ---
 
 ## 📫 Comment me contacter
